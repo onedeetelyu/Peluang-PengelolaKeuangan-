@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3C783E</color>
+    <color name="colorPrimaryDark">#4CAF50</color>
+    <color name="colorAccent">#8BE48E</color>
+    <color name="cashOut">#FF4040</color>
+    <color name="colorSelected">#C0FFC0</color>
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Peluang</string>
+    <string name="nominal">Nominal</string>
+    <string name="submit">Submit</string>
+    <string name="update">Update</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="cash_balance">Cash Balance</string>
+    <string name="cash_out">Cash Out</string>
+    <string name="grafik_pengeluaran">Grafik Pengeluaran</string>
+    <string name="peringatan">Peringatan!</string>
+    <string name="delete_cashout_confirmation">Apakah Anda yakin ingin menghapus riwayat pengeluaran yang terpilih?</string>
+    <string name="reset_data_confirmation">Apakah Anda yakin ingin menghapus semua riwayat pemasukan dan pengeluaran?</string>
+    <string name="nominal_null">Mohon isi kolom nominalnya</string>
+    <string name="deskripsi_null">Mohon isi kolom deskripsinya</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="success_delete">Data berhasil dihapus!</string>
+    <string name="belum_ada_data">Belum ada data</string>
+    <string name="nominal_negatif">Mohon masukkan nominal dengan benar</string>
+    <string name="detail_pengeluaran">%1$s seharga Rp%2$.2d</string>
+    <string name="reset">Reset</string>
+    <string name="delete">Delete</string>
+    <string name="riwayat">Riwayat</string>
+    <string name="saldo">Saldo</string>
+</resources>
